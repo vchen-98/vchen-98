@@ -1,4 +1,4 @@
-Hi 👋 My name is Victor Chen
+Hi 👋 My name is Victor
 ============================
 
 Product Data Scientist and Business Operations Analyst
