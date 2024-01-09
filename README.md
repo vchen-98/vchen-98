@@ -32,7 +32,8 @@ Data scientist, consultant, mentor, and product developer at Decoded, serving hi
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/vvvvc"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
+  
+<li style="display: inline-block; margin-right: 0.25rem; list-style-type: none;"><a href="https://www.ko-fi.com/vvvvc"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+    
 </ul>
+
