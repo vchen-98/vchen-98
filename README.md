@@ -8,7 +8,7 @@ Data scientist, consultant, mentor, and product developer at Decoded, serving hi
 
 * 🌍  I'm based in San Francisco, CA
 * ✉️  You can contact me at [victor.i.chen.98@gmail.com](mailto:victor.i.chen.98@gmail.com)
-* 🚀  I'm currently working on [OverUnder](http://overunder.bb)
+* 🚀  I'm currently working on [OverUnder](http://overunder.bb), a sports betting and fantasy sports assistant
 * 🧠  I'm learning box score shot tracking and real-time automated probabilistic outcomes for NBA
 
 ### Skills
