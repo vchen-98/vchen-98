@@ -7,7 +7,7 @@ Data Analyst
 Data scientist, consultant, mentor, and product developer at Decoded, serving high profile clients in every industry, from financial technology to food sciences. Our mission is data literacy and the enablement of the everyday person to understand and harness the information that surrounds us, both physical and virtual. I am passionate about the transparent and ethical collection and harnessing of data, and the potential that it has to connect us more fully to the world and communities around us. I encourage dialogue and opportunities for consulting in my free time, especially if you're working on innovations and discussions in the Ethics/ML Ethics space, music, or basketball analytics, three of my greatest passions in life.
 
 * 🌍  I'm based in San Francisco, CA
-* ✉️  You can contact me at [victor.i.chen.98@gmail.com](mailto:victor.i.chen.98@gmail.com)
+* ✉️  You can contact me at [victor.i.chen.98@gmail.com](mailto:victor.i.chen.98@gmail.com) and [https://www.linkedin.com/in/victorchen98/]
 * 🚀  I'm currently working on [OverUnder](http://overunder.bb), a sports betting and fantasy sports AI assistant
 * 🧠  I'm learning box score shot tracking and real-time automated probabilistic outcomes for modern basketball analytics
 
