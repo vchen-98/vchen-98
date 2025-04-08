@@ -14,28 +14,29 @@ Data scientist, consultant, and product developer, serving high profile clients 
 ### Skills
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="border: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="border: none;" />
   </a>
-  <a href="https://golang.org/" target="_blank" rel="noreferrer">
+  <a href="https://golang.org/" target="_blank" rel="noreferrer" style="border: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" style="border: none;" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="border: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="border: none;" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="border: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" style="border: none;" />
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="border: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" style="border: none;" />
   </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer" style="border: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" style="border: none;" />
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="border: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" style="border: none;" />
   </a>
 </p>
+
 
 ### Socials
 
